@@ -1,10 +1,5 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-Sitemap: https://gongdeok-song-choice.namanavi.com/sitemap.xml
+Sitemap: https://daeheung-fullsalon-note.fx-torihiki.space/sitemap.xml
+Sitemap: https://daeheung-fullsalon-note.fx-torihiki.space/sitemap-pages.xml
